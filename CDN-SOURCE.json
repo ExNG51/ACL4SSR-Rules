@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "publisherVersion": 1,
+  "source": {
+    "repository": "ExNG51/ACL4SSR-Rules",
+    "commit": "6987aa2bf0350f39db4d9f54b84b0e92118a7f6e",
+    "tree": "81bea733ad603cc4758f7468b9bf29624c625311"
+  },
+  "upstream": "ACL4SSR/ACL4SSR",
+  "rulePaths": [
+    "Clash/BanAD.list",
+    "Clash/ChinaMedia.list",
+    "Clash/Download.list",
+    "Clash/Ruleset/Wechat.list"
+  ],
+  "companionPaths": [
+    "README.md"
+  ],
+  "files": [
+    {
+      "path": "Clash/BanAD.list",
+      "mode": "100644",
+      "blob": "772ca4c451d39e31637cad209a2a65b606bf42f2",
+      "bytes": 15550
+    },
+    {
+      "path": "Clash/ChinaMedia.list",
+      "mode": "100644",
+      "blob": "b9b7d043932f6dd3ebb7ea5388286cf5af9a2685",
+      "bytes": 1306
+    },
+    {
+      "path": "Clash/Download.list",
+      "mode": "100644",
+      "blob": "ba9af58afac21e81c1dceb0992b3f7153eccc769",
+      "bytes": 928
+    },
+    {
+      "path": "Clash/Ruleset/Wechat.list",
+      "mode": "100644",
+      "blob": "e9b23cad1c1f2bec19060b5259a581aea8418510",
+      "bytes": 694
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "blob": "1a4d7cbff2347f2ebc8133cc941791beff005eaf",
+      "bytes": 9163
+    }
+  ],
+  "selection": "Original source blobs selected without modification."
+}
