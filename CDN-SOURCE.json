@@ -3,8 +3,8 @@
   "publisherVersion": 1,
   "source": {
     "repository": "ExNG51/ACL4SSR-Rules",
-    "commit": "6987aa2bf0350f39db4d9f54b84b0e92118a7f6e",
-    "tree": "81bea733ad603cc4758f7468b9bf29624c625311"
+    "commit": "64b4ebd92eec66680f8a71c35dac77793f8d4137",
+    "tree": "fa03e07b8c92e747215322347a32253e28a2b453"
   },
   "upstream": "ACL4SSR/ACL4SSR",
   "rulePaths": [
@@ -20,14 +20,14 @@
     {
       "path": "Clash/BanAD.list",
       "mode": "100644",
-      "blob": "772ca4c451d39e31637cad209a2a65b606bf42f2",
-      "bytes": 15550
+      "blob": "18cd66c69e470cc3c6e4a2f4d47d04a55e5ff278",
+      "bytes": 15618
     },
     {
       "path": "Clash/ChinaMedia.list",
       "mode": "100644",
-      "blob": "b9b7d043932f6dd3ebb7ea5388286cf5af9a2685",
-      "bytes": 1306
+      "blob": "198518ea1244300a8a4b085545224ea4b9e79c54",
+      "bytes": 1325
     },
     {
       "path": "Clash/Download.list",
